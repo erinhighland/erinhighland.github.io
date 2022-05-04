@@ -39,7 +39,7 @@ h1 {
 }
 h2 {
   font-family: Fraunces ;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -75,7 +75,7 @@ object-fit: cover;
   border: 1px solid #ffffff;
   cursor: pointer;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
@@ -112,7 +112,7 @@ object-fit: cover;
 .mins {
   display: inline-block;
   font-family: Fraunces;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
@@ -123,7 +123,7 @@ object-fit: cover;
 
 .description {
   font-family: Commissioner;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
