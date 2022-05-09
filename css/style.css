@@ -127,3 +127,9 @@ footer div {
 a {
   color: #f72585;
 }
+
+@media all and (max-width:700px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
